@@ -5,7 +5,6 @@ import numpy as np
 import math as m
 
 
-test
 
 Sol_Objekte = []
 Raumschiffe = []
