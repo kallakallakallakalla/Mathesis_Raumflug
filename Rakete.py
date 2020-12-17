@@ -1,4 +1,4 @@
-#Gruppe: Raumfahrt
+#Gruppe: Raketenbahn
 import time
 import scipy as sp
 import numpy as np
